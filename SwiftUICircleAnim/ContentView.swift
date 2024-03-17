@@ -1,7 +1,7 @@
 //
 
 import SwiftUI
-// 波紋のような
+
 
 
 extension Animation {
